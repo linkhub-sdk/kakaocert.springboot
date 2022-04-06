@@ -9,7 +9,7 @@
 	</parent>
 	<groupId>kr.co.linkhub</groupId>
 	<artifactId>kakaocert-spring-boot-starter</artifactId>
-	<version>1.0.0</version>
+	<version>1.1.0</version>
 	<packaging>jar</packaging>
 
 	<name>KakaoCert API SpringBoot SDK</name>
@@ -32,7 +32,7 @@
 		<dependency>
 			<groupId>kr.co.linkhub</groupId>
 			<artifactId>kakaocert-sdk</artifactId>
-			<version>2.50.1</version>
+			<version>2.51.0</version>
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
